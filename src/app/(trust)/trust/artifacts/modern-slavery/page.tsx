@@ -70,7 +70,7 @@ export default function ModernSlaveryStatementPage() {
           </div>
 
           <h1 className="text-3xl font-semibold tracking-tight text-black/90">
-            Modern Slavery Statement (draft)
+            Modern Slavery Statement
           </h1>
 
           <p className="max-w-3xl text-sm leading-relaxed text-black/65">
@@ -86,7 +86,7 @@ export default function ModernSlaveryStatementPage() {
             </div>
             <div className="rounded-2xl border border-black/10 bg-black/[0.02] px-4 py-3">
               <div className="text-[11px] font-semibold uppercase tracking-wide text-black/45">Reporting period</div>
-              <div className="mt-1 text-sm font-semibold text-black/80">FY (to be confirmed)</div>
+              <div className="mt-1 text-sm font-semibold text-black/80">FY2025–2026</div>
             </div>
             <div className="rounded-2xl border border-black/10 bg-black/[0.02] px-4 py-3">
               <div className="text-[11px] font-semibold uppercase tracking-wide text-black/45">Entity</div>
@@ -95,8 +95,8 @@ export default function ModernSlaveryStatementPage() {
           </div>
 
           <p className="text-xs leading-relaxed text-black/50">
-            Note: This is a draft procurement-facing statement. It does not constitute legal advice and may be updated
-            as operations and supplier base evolves.
+            Note: This is a published procurement-facing statement. It does not constitute legal advice and may be
+            revised as operations and supplier base evolves.
           </p>
         </div>
       </TrustHeroShell>
